@@ -1,0 +1,4 @@
+bot_token = '5271018340:AAFXtY0xH2G21Ob7KsuRHDOHxAn0sKWbr-0'
+admin_id = [1056861593, 1499060992]
+channel_id = -1001355638954
+channel2_id = -1001380954373
